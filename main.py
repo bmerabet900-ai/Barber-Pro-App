@@ -8,3 +8,4 @@ class BarberApp(App):
 
 if __name__ == '__main__':
     BarberApp().run()
+
